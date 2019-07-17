@@ -1,0 +1,157 @@
+[
+  {
+    "course": "Learning about html",
+    "description": "Iss course mein hum html seekhenge.",
+    "exercises": [
+      {
+        "courses_id": "1",
+        "name": "Satyam",
+        "description": "In this Actiity posture different Bends of type",
+        "id": 1,
+        "submissions": []
+      },
+      {
+        "courses_id": "1",
+        "name": "Satyam",
+        "description": "In this Actiity posture different Bends of type",
+        "id": 2
+      },
+      {
+        "courses_id": "1",
+        "name": "Learning sqlite",
+        "description": "Iss course mein hum ache se sql data base seekhenge.",
+        "id": 3
+      },
+      {
+        "courses_id": "1",
+        "name": "Learning android----------Rohit",
+        "description": "Iss course mein hum mobile app banana seekhenge.",
+        "id": 4
+      },
+      {
+        "courses_id": "1",
+        "name": "Learning android-----************-----Rohit",
+        "description": "Iss course mein hum mobile app banana seekhenge.",
+        "id": 5
+      },
+      {
+        "courses_id": "1",
+        "name": "Learning API by rohit",
+        "description": "He is a from of noida NGO",
+        "id": 6
+      },
+      {
+        "courses_id": "1",
+        "name": "Learning Basic about Tuples",
+        "description": "w3 school help of learn tuples",
+        "id": 7
+      }
+    ],
+    "id": 1
+  },
+  {
+    "description": "Iss course mein hum python aur javascript seekhenge.",
+    "exercises": [
+      {
+        "courses_id": "2",
+        "name": "Learning HTML/CSS",
+        "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+        "id": 1
+      },
+      {
+        "courses_id": "2",
+        "name": "Learning databse sql by aman jha...",
+        "description": "In this Actiity he is learning SQL Database",
+        "id": 2
+      },
+      {
+        "courses_id": "2",
+        "name": "Learning requests by vishal gaddam",
+        "description": "He is a student of NGO mumbai",
+        "id": 3
+      },
+      {
+        "courses_id": "2",
+        "name": "Learning sCRAPPING facebook by YOGI",
+        "description": "He is a from of noida NGO",
+        "id": 4
+      }
+    ],
+    "id": 2,
+    "course": "Learning python and javascript"
+  },
+  {
+    "course": "Learning about physical exercises ",
+    "description": "In this Actiity we learnt about exercises",
+    "exercises": [
+      {
+        "name": "Learning about body fitness",
+        "courses_id": "3",
+        "description": "In this Actiity our body always fitness",
+        "id": 1
+      },
+      {
+        "courses_id": "3",
+        "name": "Learning about posture of Body ",
+        "description": "In this Actiity posture will be straight",
+        "id": 2
+      }
+    ],
+    "id": 3
+  },
+  {
+    "course": "Learning about postman.......by Rishabh",
+    "description": "In this Actiity we will learn postman",
+    "exercises": [
+      {
+        "courses_id": "4",
+        "name": "we will learn get, post, put in postman",
+        "description": "In this Actiity we will learn all mtehods of postman",
+        "id": 1
+      },
+      {
+        "courses_id": "4",
+        "name": "we will learn now del, update",
+        "description": "In this Actiity Basic about delete and update methods",
+        "id": 2
+      }
+    ],
+    "id": 4
+  },
+  {
+    "course": "Learning",
+    "description": "NavGurukul",
+    "exercises": [
+      {
+        "courses_id": "5",
+        "name": "Learning............english",
+        "description": "english learn in NavGurukul ",
+        "id": 1,
+        "submission": [
+          {
+            "courses_id": "5",
+            "exercises_id": "1",
+            "content": "Yaha aapki python ki content di gayi hai.",
+            "user_name": "rohit yadav",
+            "id": 1
+          }
+        ]
+      },
+      {
+        "courses_id": "5",
+        "name": "Learning....about newton rules",
+        "description": " learn....in science..... in NavGurukul ",
+        "submission": [
+          {
+            "courses_id": "5",
+            "exercises_id": "2",
+            "content": "Yaha aapki submission ka content rahega.",
+            "user_name": "Rishabh Verma",
+            "id": 1
+          }
+        ],
+        "id": 2
+      }
+    ],
+    "id": 5
+  }
